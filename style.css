@@ -1,0 +1,29 @@
+a{
+    color: 	#0000FF;
+    text-decoration: none;
+}
+html
+{
+	background-color: #FDEAA8;
+}
+h1,h2{
+	
+	font-family: Arial, serif;
+  	color: #A52A2A;
+
+}
+p
+{	font-size: 12pt;
+	color: #A52A2A;
+
+}
+p:first-letter{
+    font-size:25px;
+}
+li
+{
+	color: #000000;
+	font-size: 12pt;
+	font-family: Courier New;
+}
+ 
